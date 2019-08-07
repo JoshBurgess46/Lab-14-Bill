@@ -1,0 +1,11 @@
+C:\Users\JoshB\OneDrive\Lab 14 Bill\bin\Debug\netcoreapp2.2\Lab 14 Bill.deps.json
+C:\Users\JoshB\OneDrive\Lab 14 Bill\bin\Debug\netcoreapp2.2\Lab 14 Bill.runtimeconfig.json
+C:\Users\JoshB\OneDrive\Lab 14 Bill\bin\Debug\netcoreapp2.2\Lab 14 Bill.runtimeconfig.dev.json
+C:\Users\JoshB\OneDrive\Lab 14 Bill\bin\Debug\netcoreapp2.2\Lab 14 Bill.dll
+C:\Users\JoshB\OneDrive\Lab 14 Bill\bin\Debug\netcoreapp2.2\Lab 14 Bill.pdb
+C:\Users\JoshB\OneDrive\Lab 14 Bill\obj\Debug\netcoreapp2.2\Lab 14 Bill.csprojAssemblyReference.cache
+C:\Users\JoshB\OneDrive\Lab 14 Bill\obj\Debug\netcoreapp2.2\Lab 14 Bill.csproj.CoreCompileInputs.cache
+C:\Users\JoshB\OneDrive\Lab 14 Bill\obj\Debug\netcoreapp2.2\Lab 14 Bill.AssemblyInfoInputs.cache
+C:\Users\JoshB\OneDrive\Lab 14 Bill\obj\Debug\netcoreapp2.2\Lab 14 Bill.AssemblyInfo.cs
+C:\Users\JoshB\OneDrive\Lab 14 Bill\obj\Debug\netcoreapp2.2\Lab 14 Bill.dll
+C:\Users\JoshB\OneDrive\Lab 14 Bill\obj\Debug\netcoreapp2.2\Lab 14 Bill.pdb
